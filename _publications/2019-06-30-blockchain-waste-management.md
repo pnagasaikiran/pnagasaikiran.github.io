@@ -1,3 +1,4 @@
+<!---
 ---
 title: "Blockchain based Waste Management"
 collection: Journal
@@ -13,3 +14,4 @@ immutability through cryptographically secure and distributed ledger method, inc
 
 [Download paper here](https://www.ijeat.org/wp-content/uploads/papers/v8i5/E7828068519.pdf)
 
+--->
