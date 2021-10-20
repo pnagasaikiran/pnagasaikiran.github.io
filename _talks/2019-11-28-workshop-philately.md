@@ -1,4 +1,4 @@
----
+<!---
 title: "Workshop on Philately"
 collection: talks
 type: "Workshop"
