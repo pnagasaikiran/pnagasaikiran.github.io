@@ -1,4 +1,4 @@
----
+<!---
 title: "20CYS103 - Computer Systems and Hardware Essentials"
 collection: teaching
 type: "Undergraduate Course - B.Tech CSE(CYS)"
