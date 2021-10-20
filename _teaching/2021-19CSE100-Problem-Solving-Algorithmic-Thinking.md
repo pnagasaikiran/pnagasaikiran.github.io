@@ -1,4 +1,4 @@
----
+<!---
 title: "19CSE100 - Problem Solving and Algorithmic Thinking"
 collection: teaching
 type: "Undergraduate Course - B.Tech CSE(CYS)"
