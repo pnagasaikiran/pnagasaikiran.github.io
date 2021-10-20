@@ -1,4 +1,3 @@
-title: "Page Comming Soon
 <!---
 ---
 title: "Blockchain for the Internet of Vehicles"
