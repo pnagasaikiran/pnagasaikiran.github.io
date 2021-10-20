@@ -1,4 +1,4 @@
----
+<!---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!---
+
 Education
 ======
 * **Sep, 2021 - Sep, 2025: Doctoral Research**
