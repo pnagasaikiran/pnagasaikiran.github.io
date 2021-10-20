@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ramaguru Radhakrishnan currently working as Assistant Professor at Amrita Vishwa Vidyapeetham, Coimbatore. He is also the Founder of நம்Chain Open Initiative Research Lab, Coimbatore. He is currently pursuing is Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
+Naga Sai Kiran currently working as Research Associate at Amrita Vishwa Vidyapeetham, Coimbatore. He is currently pursuing is Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 Ramaguru Radhakrishnan native of Coimbatore completed his Bachelors from Kumaraguru College of Technology in Information Technology in the year 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore as Senior Software Engineer in the area of System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru for a shorter duration. 
 
