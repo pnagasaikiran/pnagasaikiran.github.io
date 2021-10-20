@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Naga Sai Kiran currently working as Research Associate at Amrita Vishwa Vidyapeetham, Coimbatore. He is currently pursuing is Doctoral Research in Blockchain Technology from Amrita Vishwa Vidyapeetham, Coimbatore.
+Naga Sai Kiran currently working as Research Associate at Amrita Vishwa Vidyapeetham, Coimbatore. And Working for development and android security testing of a tool which compromises of features such as sensitive data leakage and malware detection. Gained lot of experience in web application development from Amrita Vishwa Vidyapeetham, Coimbatore.
 
-Ramaguru Radhakrishnan native of Coimbatore completed his Bachelors from Kumaraguru College of Technology in Information Technology in the year 2011. He worked for Robert Bosch Engineering and Business Solutions Private Ltd, Coimbatore as Senior Software Engineer in the area of System Testing and Test Automation for Automotive Infotainment Units. He also served in the same role at Harman International, Bengaluru for a shorter duration. 
+Naga Sai Kiran native of Vijayawada completed his Bachelors from Kakatiya University in the year 2016. He worked for Cartel Software Private Ltd, Bangalore as Security Analyst in the area of Pentesting and Vulnerability Assessment Performs network and application technical vulnerability assessments using vulnerability assessment tools. He also served in the same role at Greatskills Private LTD, Hyderabad for a shorter duration. 
 
-Due to his interest towards Research and Teaching, he started Aksharam Training Academy and started his full time Masters in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore. Post completion of the course he worked as Lead Blockchain Engineer at Ensurity Technologies, Hyderabad. 
+Due to his interest towards Hacking and Teaching, he started Certified Ethical Hacking and Comptia Security+ started his full time Teaching in Cyber Security at Amrita Vishwa Vidyapeetham, Coimbatore.
 
-Ramaguru joined Amrita as a Research Associate in Jan, 2020 to work on Blockchain Technology and Cryptocurrency.
+Naga Sai Kiran joined Amrita as a Research Associate in Sep, 2020 to work on Android Security Testing and Web App Development.
 
-Ramaguru has been working in varied areas including Education, Health Financial Support, Waste Management, Right To Information Act, Recycling and more. To share his knowledge and spread awareness on these areas he started various initiatives namely Kanavu Public Charitable Trust, Kuppai, Gandhimani Numismatics and Philately Club (GNPC), Payanam. 
+Naga Sai Kiran has been working in varied areas including Pentesting, Vulnerability Assessment, Ethical Hacking, Password Cracking, Wifi and Android Malware Testing more. To share his knowledge and spread Cyber Security awareness on these areas he started teaching ethical hacking and penetration testing from Amrita Vishwa Vidyapeetham, Coimbatore.
 
 Areas of Interest
 ------
-Blockchain Technology, Cryptocurrency, Numismatics, Forensics, Cyber Crime Investigation, Cyber Awareness, Philately, System Testing, Automotive Cyber Security, Ancient Scriptures, Religious Studies, Waste Management and Cyber Psychology.
+Ethical Hacking, Vulnerability Assessment, Penetration Testing, Password Cracking, Wifi Cracking, Android Payload, Phising Attacks, Cryptography, Steganography, Forensics, Cyber Crime Investigation, Cyber Awareness, System Testing, Automotive Cyber Security, Malware Detection, Disaster Recovery and Bash Scripting.
