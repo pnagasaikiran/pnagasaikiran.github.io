@@ -1,4 +1,4 @@
----
+<!---
 title: "Workshop on Philately and Postcrossing"
 collection: talks
 type: "Workshop"
