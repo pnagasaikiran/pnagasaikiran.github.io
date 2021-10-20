@@ -1,4 +1,7 @@
+title: "Page Comming Soon
+<!---
 ---
+title: "Blockchain Framework for Social Media DRM Based on Secret Sharing"
 title: "Blockchain Framework for Social Media DRM Based on Secret Sharing"
 collection: Conference
 permalink: /publication/2020-10-22- blockchain-social-media-DRM
@@ -12,3 +15,4 @@ Huge adoption of the Internet into our daily lives generates at least few MBs of
 
 [Download paper here](https://link.springer.com/chapter/10.1007%2F978-981-15-7078-0_43)
 
+--->
