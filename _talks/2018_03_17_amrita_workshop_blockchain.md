@@ -1,4 +1,4 @@
----
+<!---
 title: "Workshop on Blockchain Technologies - The Blockchain Analysis"
 collection: talks
 type: "Workshop"
